@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "super_bowl_lx",
+      "kind": "super_bowl",
+      "sport": "FOOTBALL",
+      "label": "Super Bowl LX",
+      "keywords": ["super bowl", "super bowl lx", "super bowl 60"],
+      "activeFrom": "2026-01-20",
+      "activeUntil": "2026-02-25",
+      "logo": null,
+      "enabled": false,
+      "notes": "Set enabled=true and logo once the event is official."
+    },
+    {
+      "id": "nba_finals_2026",
+      "kind": "nba_finals",
+      "sport": "BASKETBALL",
+      "label": "NBA Finals",
+      "keywords": ["nba finals"],
+      "activeFrom": "2026-05-01",
+      "activeUntil": "2026-06-30",
+      "logo": null,
+      "enabled": true,
+      "notes": "Enabled for 2026 NBA Finals window."
+    },
+    {
+      "id": "world_cup_2026",
+      "kind": "world_cup",
+      "sport": "SOCCER",
+      "label": "FIFA World Cup",
+      "keywords": ["world cup", "fifa world cup"],
+      "activeFrom": "2026-06-01",
+      "activeUntil": "2026-07-20",
+      "logo": null,
+      "enabled": false,
+      "notes": "Enable for World Cup window when ready to ship."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nba": {
+    "GSW": "GS",
+    "NOP": "NO",
+    "NOLA": "NO",
+    "NYK": "NY",
+    "SAS": "SA",
+    "WAS": "WSH",
+    "UTA": "UTAH"
+  },
+  "nfl": {
+    "JAC": "JAX",
+    "GNB": "GB",
+    "KAN": "KC",
+    "OAK": "LV",
+    "LVR": "LV",
+    "STL": "LAR",
+    "WAS": "WSH",
+    "NOR": "NO",
+    "NWE": "NE",
+    "SFO": "SF",
+    "TAM": "TB"
+  },
+  "epl": {
+    "MUN": "MAN",
+    "MU": "MAN",
+    "NOT": "NFO",
+    "BRI": "BHA",
+    "WH": "WHU"
+  }
+}
