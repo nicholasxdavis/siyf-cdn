@@ -18,6 +18,8 @@ Examples:
 | Special events | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/meta/special-events.json` |
 | NBA Finals logo | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/media/finals-game.png` |
 | NBA All-Star logo | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/media/all-star-game.png` |
+| Favicon (SVG) | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/favicon/favicon.svg` |
+| Favicon (ICO) | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/favicon/favicon.ico` |
 
 In local dev the app reads from `../siyf-cdn` at `/siyf-cdn/…` instead.
 
