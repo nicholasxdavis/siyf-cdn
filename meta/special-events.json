@@ -21,9 +21,21 @@
       "keywords": ["nba finals"],
       "activeFrom": "2026-05-01",
       "activeUntil": "2026-06-30",
-      "logo": "media/finals.png",
+      "logo": "media/finals-game.png",
       "enabled": true,
       "notes": "Enabled for 2026 NBA Finals window."
+    },
+    {
+      "id": "nba_all_star_2026",
+      "kind": "all_star",
+      "sport": "BASKETBALL",
+      "label": "NBA All-Star",
+      "keywords": ["all-star", "all star", "nba all-star"],
+      "activeFrom": "2026-01-01",
+      "activeUntil": "2026-12-31",
+      "logo": "media/all-star-game.png",
+      "enabled": true,
+      "notes": "All-Star Game logo for curated marquee cards."
     },
     {
       "id": "world_cup_2026",

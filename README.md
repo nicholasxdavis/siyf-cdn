@@ -16,7 +16,8 @@ Examples:
 |---|---|
 | NBA teams | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/teams/nba.json` |
 | Special events | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/meta/special-events.json` |
-| NBA Finals logo | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/media/finals.png` |
+| NBA Finals logo | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/media/finals-game.png` |
+| NBA All-Star logo | `https://cdn.jsdelivr.net/gh/nicholasxdavis/siyf-cdn@main/media/all-star-game.png` |
 
 In local dev the app reads from `../siyf-cdn` at `/siyf-cdn/…` instead.
 
